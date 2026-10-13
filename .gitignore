@@ -1,0 +1,10 @@
+recon/credentials.local
+knowledge/monitor/
+knowledge/binaries/
+knowledge/osu1/
+recon/usb_stage/
+knowledge/xvd-2016-baseline/
+*.zip
+*.xvd
+*.dmp*
+.DS_Store
